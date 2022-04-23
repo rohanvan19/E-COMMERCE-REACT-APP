@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "title": "Providing best products",
+    "paragraph": "Delivering high quality products and services at your doorstep."
+  },
+  "About": {
+    "paragraph": "Vanmali E-commerce is a vast Internet-based enterprise that sells books, music, movies, housewares, electronics, toys, and many other goods, either directly or as the middleman between other retailers and millions of customers. Vanmali E-commerce is headquartered in Mumbai, India. The company has individual websites, software development centers, customer service centers and fulfillment centers in many locations around the world.",
+    "Why": [
+      "High Quality products",
+      "On-time Delivery",
+      "Electronics",
+      "Footwears"
+    ],
+    "Why2": [
+      "Housewares",
+      "Wristband and Smartphones",
+      "Kitchen Appliances",
+      "Entertainment and Education"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "View Product",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "A very good company that delivers quality products.",
+      "name": "Jim Halpert"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Amazing product. Loved it and keep up the good work.",
+      "name": "Dwight Schrute"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Worth the prize and best e-commerce website ever.",
+      "name": "Michael Scott"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Comfortable and stylish products i have ever recieved.",
+      "name": "Pam Beesly"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Good looking and original, exactly how i love it.",
+      "name": "Stanley Hudson"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Best electronics and footwear products for long term use.",
+      "name": "Andy Bernard"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ross Geller",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Chandler Bing",
+      "job": "Senior Manager"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Rachel Green",
+      "job": "Product Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Phoebe Buffay",
+      "job": "Executive Assistant"
+    }
+  ],
+  "Contact": {
+    "address": "201264 Borivali West, Infinity complex, Trinity Building.",
+    "phone": "+1 123 456 1234",
+    "email": "info@vanmali.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}

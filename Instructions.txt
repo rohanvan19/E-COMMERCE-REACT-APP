@@ -1,0 +1,39 @@
+After downloading :
+ 1] Run npm install
+ 2] Run npm start
+
+To run the service worker create react app with service worker template :
+    1] npx create-react-app my-app --template cra-template-pwa
+
+Service worker only works with serve -s build command :
+    1] Run npm run build
+    2] Run npm install -g serve
+    3] Run serve -s build
+
+To add the manifest file :
+    1] Create a manifest file in public folder alongside index.html
+    2] Add the content to manifest file and add link below the title
+
+To run manifest and service worker together :
+    1] Run npm install --global yarn
+    2] Run yarn start
+    3] Run serve -s build
+
+Use the lighthouse tool !
+
+To export react project to github pages :
+    1] Create a git repository
+    2] Run git init
+    3] From …or push an existing repository from the command line get the 1st command
+    4] Run git remote add origin https://github.com/rohanvan19/PWA_E-COMMERCE.git
+    5] git add . 
+    6] git commit -m "Inital Commit"
+    7] git branch -M main
+    8] git push origin main
+    9] Refresh repository
+    10] Add "homepage": "https://rohanvan19.github.io/PWA_E-COMMERCE", in package.json at top
+    11] Run npm install gh-pages --save-dev
+    12] Add following commands to scripts in package.json
+        "predeploy" : "npm run build",
+        "deploy" : "gh-pages -d build",
+    13] Run npm run deploy
