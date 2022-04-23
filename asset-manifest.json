@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/E-COMMERCE-REACT-APP/static/css/main.cc17b0dd.chunk.css",
+    "main.js": "/E-COMMERCE-REACT-APP/static/js/main.13226963.chunk.js",
+    "main.js.map": "/E-COMMERCE-REACT-APP/static/js/main.13226963.chunk.js.map",
+    "runtime-main.js": "/E-COMMERCE-REACT-APP/static/js/runtime-main.6764bbfb.js",
+    "runtime-main.js.map": "/E-COMMERCE-REACT-APP/static/js/runtime-main.6764bbfb.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/E-COMMERCE-REACT-APP/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/E-COMMERCE-REACT-APP/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/E-COMMERCE-REACT-APP/index.html",
+    "service-worker.js": "/E-COMMERCE-REACT-APP/service-worker.js",
+    "service-worker.js.map": "/E-COMMERCE-REACT-APP/service-worker.js.map",
+    "static/css/main.cc17b0dd.chunk.css.map": "/E-COMMERCE-REACT-APP/static/css/main.cc17b0dd.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/E-COMMERCE-REACT-APP/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6764bbfb.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.cc17b0dd.chunk.css",
+    "static/js/main.13226963.chunk.js"
+  ]
+}
